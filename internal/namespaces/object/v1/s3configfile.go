@@ -73,7 +73,6 @@ secret_access_key = {{ .SecretKey }}
 region = {{ .Region }}
 location_constraint =
 acl = private
-force_path_style = false
 server_side_encryption =
 storage_class =
 `
